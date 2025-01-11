@@ -1,0 +1,2 @@
+# AniJournal
+Anime Journaling Website
